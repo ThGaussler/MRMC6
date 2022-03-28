@@ -3,7 +3,7 @@
     "path": "~/GitHub/MRMC6/docs/index.Rmd",
     "project_path": "docs/index.Rmd",
     "type": "r_markdown",
-    "hash": "2261311250",
+    "hash": "2038794154",
     "contents": "",
     "dirty": false,
     "created": 1648490750662.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,0",
-        "scrollLine": "0"
+        "cursorPosition": "110,3",
+        "scrollLine": "80"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648490833,
+    "lastKnownWriteTime": 1648491837,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648490833769,
+    "last_content_update": 1648491837912,
     "read_only": false,
     "read_only_alternatives": []
 }
